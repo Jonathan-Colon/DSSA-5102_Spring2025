@@ -10,7 +10,7 @@ My data was collected from my own spotify account throught requesting my data<br
 I downloaded the .json file containing my streaming history from Spotify
 <br>
 ### How was it extracted?​
-I was able to request the data via spotify, and then extracted it through converting it into a excel file<br>
+I was able to request the data via spotify, and then extracted it through converting it into an excel file<br>
 
 ### What program was used to clean the data?​
 Python<br>
