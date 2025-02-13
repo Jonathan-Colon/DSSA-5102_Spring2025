@@ -32,18 +32,19 @@ mixtape['Minutesplayed'] = mixtape['msplayed'] / (60 * 1000) was used to convert
 Spotify sends my downloaded data, which is backed by their privacy policies. I also was able to cross reference the data with my own library to make sure there was accurate data in the dataset
 
 ### What are the definitions for the column names? Include all columns in your dataset.​
-endtime: Time the song was ended (date)
-artistname: Name of artist
-trackname: Name of track
-msplayed:Song legnth in Milliseconds 
-minutesplayed: Song length in minutes
+endtime: Time the song was ended (date)<br>
+artistname: Name of artist<br>
+trackname: Name of track<br>
+msplayed:Song legnth in Milliseconds<br> 
+minutesplayed: Song length in minutes<br>
 
 ### If there are set variable options in your dataset, what are thier definitions? ​
-trackname: Name of song
+trackname: Name of song<br>
 artistname: Name of artist
 
 
 
 ### What are the regulations to using the data? 
-From my understanding, there are any restrictions when using this data as it is my own
-If you are referencing sources, be sure to include citations/references as needed.
+From my understanding, there are any restrictions when using this data as it is my own<br>
+
+### If you are referencing sources, be sure to include citations/references as needed.
